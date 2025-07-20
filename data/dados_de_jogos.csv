@@ -1,0 +1,151 @@
+Nome_Jogador,Posicao,Data,Minutos_Jogados,Distancia_Percorrida_(km),Num_Sprints,VO2_Max_Estimado,FC_Media_(bpm),Lesao_Ocorreu,Tipo_Lesao,Tempo_Ausencia,Fonte
+Marcos,Goleiro,2002-03-04,45.0,7.46,20,51.85,152,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-03-17,90.0,8.24,14,54.68,162,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-03-24,90.0,8.74,18,47.53,134,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-04-07,90.0,6.56,23,50.47,141,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-04-12,0.0,8.98,17,53.08,150,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-05-04,0.0,7.77,21,47.77,144,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-05-27,90.0,8.24,22,49.4,156,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-06-04,0.0,10.18,7,51.52,138,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-06-10,0.0,8.68,17,53.72,141,False,,0,Dados_de_Jogos
+Marcos,Goleiro,2002-06-26,90.0,5.99,12,48.24,153,False,,0,Dados_de_Jogos
+Cafu,Lateral-direito,2002-03-14,90.0,9.6,28,54.09,152,False,,0,Dados_de_Jogos
+Cafu,Lateral-direito,2002-04-18,90.0,9.1,24,53.43,156,False,,0,Dados_de_Jogos
+Cafu,Lateral-direito,2002-05-24,90.0,9.0,24,51.07,154,False,,0,Dados_de_Jogos
+Cafu,Lateral-direito,2002-06-09,0.0,9.83,28,54.48,152,False,,0,Dados_de_Jogos
+Lúcio,Zagueiro,2002-04-04,90.0,6.17,21,48.99,146,False,,0,Dados_de_Jogos
+Lúcio,Zagueiro,2002-04-10,0.0,9.18,17,52.71,162,False,,0,Dados_de_Jogos
+Lúcio,Zagueiro,2002-04-12,45.0,10.38,14,56.24,156,False,,0,Dados_de_Jogos
+Lúcio,Zagueiro,2002-05-06,45.0,7.77,19,56.68,152,False,,0,Dados_de_Jogos
+Lúcio,Zagueiro,2002-05-23,90.0,8.19,29,45.45,160,False,,0,Dados_de_Jogos
+Roque Júnior,Zagueiro,2002-03-29,90.0,6.51,16,44.68,160,False,,0,Dados_de_Jogos
+Roque Júnior,Zagueiro,2002-04-01,90.0,6.09,15,54.78,137,False,,0,Dados_de_Jogos
+Roque Júnior,Zagueiro,2002-05-04,45.0,5.53,13,47.98,143,False,,0,Dados_de_Jogos
+Roque Júnior,Zagueiro,2002-06-02,45.0,10.37,13,49.82,158,False,,0,Dados_de_Jogos
+Roque Júnior,Zagueiro,2002-06-18,0.0,8.77,18,52.62,153,False,,0,Dados_de_Jogos
+Roque Júnior,Zagueiro,2002-06-26,90.0,8.15,13,50.0,145,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-03-11,90.0,10.34,26,61.84,167,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-03-19,90.0,10.57,21,55.21,169,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-03-21,90.0,13.83,25,51.76,162,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-03-30,90.0,10.19,15,52.88,163,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-04-19,90.0,0.0,25,60.65,151,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-04-26,45.0,10.57,24,30.0,171,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-05-12,0.0,0.0,12,57.65,162,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-06-02,0.0,10.7,24,56.05,169,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-06-07,90.0,11.2,24,53.68,152,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-06-14,90.0,9.17,33,53.51,162,False,,0,Dados_de_Jogos
+Edmilson,Volante,2002-06-24,0.0,8.68,26,59.96,167,False,,0,Dados_de_Jogos
+Roberto Carlos,Lateral-esquerdo,2002-04-03,0.0,8.13,23,51.25,149,False,,0,Dados_de_Jogos
+Roberto Carlos,Lateral-esquerdo,2002-04-07,90.0,7.47,18,52.25,163,False,,0,Dados_de_Jogos
+Roberto Carlos,Lateral-esquerdo,2002-04-11,90.0,5.91,33,51.05,153,False,,0,Dados_de_Jogos
+Roberto Carlos,Lateral-esquerdo,2002-05-28,0.0,10.69,32,49.71,144,False,,0,Dados_de_Jogos
+Roberto Carlos,Lateral-esquerdo,2002-06-04,45.0,8.01,28,53.78,138,False,,0,Dados_de_Jogos
+Roberto Carlos,Lateral-esquerdo,2002-06-10,90.0,8.87,25,52.49,159,False,,0,Dados_de_Jogos
+Ricardinho,Meio-campista,2002-03-13,90.0,9.27,23,55.47,145,False,,0,Dados_de_Jogos
+Ricardinho,Meio-campista,2002-03-28,0.0,5.28,33,53.52,149,False,,0,Dados_de_Jogos
+Ricardinho,Meio-campista,2002-05-02,0.0,9.82,34,51.84,156,False,,0,Dados_de_Jogos
+Ricardinho,Meio-campista,2002-06-16,90.0,10.39,27,52.72,147,False,,0,Dados_de_Jogos
+Gilberto Silva,Volante,2002-03-13,0.0,10.14,26,30.0,165,False,,0,Dados_de_Jogos
+Gilberto Silva,Volante,2002-06-01,90.0,11.04,32,61.35,164,False,,0,Dados_de_Jogos
+Gilberto Silva,Volante,2002-06-27,90.0,7.48,16,57.16,162,False,,0,Dados_de_Jogos
+Ronaldo,Atacante,2002-03-05,90.0,10.71,39,56.61,146,False,,0,Dados_de_Jogos
+Ronaldo,Atacante,2002-03-15,0.0,8.11,31,52.71,152,False,,0,Dados_de_Jogos
+Ronaldo,Atacante,2002-04-27,45.0,8.11,30,54.45,170,False,,0,Dados_de_Jogos
+Ronaldo,Atacante,2002-05-03,90.0,10.61,22,30.0,148,False,,0,Dados_de_Jogos
+Ronaldo,Atacante,2002-06-06,90.0,9.07,31,48.53,149,False,,0,Dados_de_Jogos
+Rivaldo,Atacante,2002-03-08,45.0,7.36,26,53.34,168,False,,0,Dados_de_Jogos
+Rivaldo,Atacante,2002-03-20,90.0,9.9,25,50.67,149,False,,0,Dados_de_Jogos
+Rivaldo,Atacante,2002-04-22,0.0,8.64,35,55.98,159,False,,0,Dados_de_Jogos
+Rivaldo,Atacante,2002-05-29,45.0,0.0,31,53.44,146,False,,0,Dados_de_Jogos
+Rivaldo,Atacante,2002-06-26,90.0,8.45,29,53.37,160,False,,0,Dados_de_Jogos
+Ronaldinho Gaúcho,Meio-campista,2002-03-18,90.0,8.17,26,51.05,162,False,,0,Dados_de_Jogos
+Ronaldinho Gaúcho,Meio-campista,2002-04-11,90.0,7.72,36,56.14,162,False,,0,Dados_de_Jogos
+Ronaldinho Gaúcho,Meio-campista,2002-04-28,0.0,11.94,31,49.64,155,False,,0,Dados_de_Jogos
+Ronaldinho Gaúcho,Meio-campista,2002-05-04,45.0,6.96,28,54.54,155,False,,0,Dados_de_Jogos
+Ronaldinho Gaúcho,Meio-campista,2002-05-13,90.0,7.4,26,52.88,155,False,,0,Dados_de_Jogos
+Ronaldinho Gaúcho,Meio-campista,2002-06-10,0.0,9.35,32,51.67,162,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-03-06,0.0,8.81,14,49.75,143,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-03-12,45.0,5.97,4,55.66,148,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-03-17,90.0,0.0,11,44.6,159,True,Fadiga_Excessiva/Risco_Lesao,9,Dados_de_Jogos
+Dida,Goleiro,2002-03-27,90.0,9.42,19,48.3,157,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-04-09,0.0,7.1,21,47.59,146,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-05-03,90.0,9.49,17,48.86,147,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-05-06,0.0,7.46,16,46.9,164,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-05-11,90.0,9.55,14,40.9,149,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-05-21,0.0,7.74,13,53.22,136,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-05-25,90.0,8.47,14,52.44,154,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-06-04,90.0,8.18,6,47.7,132,False,,0,Dados_de_Jogos
+Dida,Goleiro,2002-06-22,90.0,11.49,18,54.37,135,False,,0,Dados_de_Jogos
+Belletti,Lateral-direito,2002-03-08,90.0,10.8,24,55.7,150,False,,0,Dados_de_Jogos
+Belletti,Lateral-direito,2002-04-14,0.0,6.32,34,53.12,150,False,,0,Dados_de_Jogos
+Belletti,Lateral-direito,2002-04-24,90.0,9.68,23,30.0,138,False,,0,Dados_de_Jogos
+Belletti,Lateral-direito,2002-06-20,90.0,11.28,35,52.18,162,False,,0,Dados_de_Jogos
+Anderson Polga,Zagueiro,2002-05-29,0.0,6.81,15,50.95,148,False,,0,Dados_de_Jogos
+Anderson Polga,Zagueiro,2002-06-26,45.0,7.57,19,53.6,143,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-03-21,45.0,8.73,21,53.51,169,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-04-03,0.0,10.37,20,53.56,158,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-04-29,0.0,10.75,16,55.5,156,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-05-11,45.0,0.0,29,54.59,158,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-05-14,90.0,10.47,28,53.91,164,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-05-21,0.0,6.49,24,57.51,163,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-05-28,0.0,8.67,10,56.83,169,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-06-08,0.0,8.78,29,44.45,154,False,,0,Dados_de_Jogos
+Kléberson,Volante,2002-06-11,45.0,11.4,20,30.0,162,False,,0,Dados_de_Jogos
+Júnior,Lateral-esquerdo,2002-03-20,90.0,12.59,28,52.05,160,False,,0,Dados_de_Jogos
+Júnior,Lateral-esquerdo,2002-03-23,0.0,7.99,27,51.33,155,False,,0,Dados_de_Jogos
+Júnior,Lateral-esquerdo,2002-05-05,90.0,0.0,29,52.55,145,False,,0,Dados_de_Jogos
+Júnior,Lateral-esquerdo,2002-05-25,90.0,10.08,29,54.38,140,False,,0,Dados_de_Jogos
+Júnior,Lateral-esquerdo,2002-06-05,45.0,9.94,25,52.24,153,False,,0,Dados_de_Jogos
+Júnior,Lateral-esquerdo,2002-06-17,90.0,9.82,32,54.33,142,False,,0,Dados_de_Jogos
+Júnior,Lateral-esquerdo,2002-06-23,90.0,9.44,20,51.75,151,False,,0,Dados_de_Jogos
+Denílson,Meio-campista,2002-03-04,90.0,9.69,37,53.82,171,False,,0,Dados_de_Jogos
+Denílson,Meio-campista,2002-05-05,0.0,12.55,22,30.0,167,False,,0,Dados_de_Jogos
+Denílson,Meio-campista,2002-06-11,0.0,11.13,30,56.58,160,False,,0,Dados_de_Jogos
+Denílson,Meio-campista,2002-06-20,0.0,8.28,28,48.49,147,False,,0,Dados_de_Jogos
+Denílson,Meio-campista,2002-06-23,0.0,7.34,27,56.15,150,False,,0,Dados_de_Jogos
+Vampeta,Volante,2002-03-13,0.0,11.18,26,57.41,155,False,,0,Dados_de_Jogos
+Vampeta,Volante,2002-03-22,90.0,10.92,24,54.29,160,False,,0,Dados_de_Jogos
+Vampeta,Volante,2002-04-02,0.0,8.05,18,57.49,158,False,,0,Dados_de_Jogos
+Vampeta,Volante,2002-05-03,90.0,5.02,19,56.77,160,False,,0,Dados_de_Jogos
+Vampeta,Volante,2002-05-16,45.0,8.49,31,50.26,159,False,,0,Dados_de_Jogos
+Vampeta,Volante,2002-05-29,90.0,9.4,17,55.78,163,False,,0,Dados_de_Jogos
+Vampeta,Volante,2002-06-14,90.0,11.64,29,54.74,160,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-03-03,0.0,9.8,35,49.78,148,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-03-07,90.0,10.27,32,54.36,159,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-03-17,90.0,9.06,23,54.03,166,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-03-28,0.0,10.17,34,57.66,162,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-04-15,0.0,11.33,31,54.45,144,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-04-22,90.0,8.04,31,55.9,165,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-05-17,90.0,7.69,36,49.63,154,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-06-24,90.0,9.69,31,56.75,161,False,,0,Dados_de_Jogos
+Juninho Paulista,Meio-campista,2002-06-29,90.0,8.15,29,51.96,166,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-03-06,90.0,0.0,26,52.52,161,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-03-18,45.0,9.43,30,48.26,151,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-04-10,0.0,7.73,18,54.12,167,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-04-14,90.0,7.61,41,50.52,164,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-04-17,90.0,9.71,25,51.13,141,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-04-29,0.0,10.37,39,57.85,159,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-05-03,0.0,8.48,31,52.33,163,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-05-06,45.0,6.45,36,56.05,162,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-05-09,90.0,8.05,31,50.6,164,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-05-15,90.0,7.89,32,53.22,154,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-06-01,90.0,8.02,28,46.23,148,True,Fadiga_Excessiva/Risco_Lesao,7,Dados_de_Jogos
+Edílson,Atacante,2002-06-16,90.0,9.43,31,49.31,163,False,,0,Dados_de_Jogos
+Edílson,Atacante,2002-06-23,0.0,0.0,27,50.53,163,False,,0,Dados_de_Jogos
+Luizão,Atacante,2002-03-27,0.0,5.84,32,53.94,165,False,,0,Dados_de_Jogos
+Luizão,Atacante,2002-04-17,0.0,10.01,29,48.86,149,False,,0,Dados_de_Jogos
+Luizão,Atacante,2002-04-29,90.0,8.41,28,50.03,164,False,,0,Dados_de_Jogos
+Luizão,Atacante,2002-05-02,90.0,7.04,26,51.04,172,False,,0,Dados_de_Jogos
+Luizão,Atacante,2002-05-15,0.0,6.77,42,54.1,162,False,,0,Dados_de_Jogos
+Luizão,Atacante,2002-05-17,90.0,10.16,23,50.71,149,False,,0,Dados_de_Jogos
+Rogério Ceni,Goleiro,2002-03-23,90.0,7.89,10,48.03,147,False,,0,Dados_de_Jogos
+Rogério Ceni,Goleiro,2002-04-05,45.0,6.07,22,45.14,146,False,,0,Dados_de_Jogos
+Rogério Ceni,Goleiro,2002-04-14,90.0,9.01,25,54.03,152,False,,0,Dados_de_Jogos
+Rogério Ceni,Goleiro,2002-04-24,90.0,12.03,21,48.93,140,False,,0,Dados_de_Jogos
+Rogério Ceni,Goleiro,2002-05-12,45.0,4.42,15,46.15,163,False,,0,Dados_de_Jogos
+Rogério Ceni,Goleiro,2002-06-03,0.0,6.27,17,46.93,144,False,,0,Dados_de_Jogos
+Kaká,Meio-campista,2002-05-01,90.0,5.95,37,45.63,149,False,,0,Dados_de_Jogos
+Kaká,Meio-campista,2002-05-06,0.0,12.59,30,53.07,152,False,,0,Dados_de_Jogos
+Kaká,Meio-campista,2002-05-11,90.0,9.98,30,50.11,148,False,,0,Dados_de_Jogos
+Kaká,Meio-campista,2002-05-22,45.0,0.0,26,51.55,153,False,,0,Dados_de_Jogos
+Kaká,Meio-campista,2002-06-21,45.0,9.86,23,54.77,162,False,,0,Dados_de_Jogos
