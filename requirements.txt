@@ -1,0 +1,22 @@
+# Arquivo de dependências para o projeto BR-2002.
+# Instale-as com o comando: pip install -r requirements.txt
+
+# Manipulação e análise de dados
+pandas
+numpy
+
+# Para o dashboard interativo
+dash
+dash-bootstrap-components
+plotly
+
+# Conexão e manipulação de bancos de dados
+SQLAlchemy
+
+# Para a reconciliação de nomes no data_processor.py
+fuzzywuzzy
+python-Levenshtein
+
+# Para o modelo de Machine Learning no analysis_script.py
+scikit-learn
+joblib
